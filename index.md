@@ -8,4 +8,6 @@ Practicando cómo agregar encabezados con Markdown.
 
 ![Un Yaktocat sonriente con un laptop](https://octodex.github.com/images/yaktocat.png)
 
-Eso es todo por ahora.
+```javascript
+var myVar = "Hello, world!";
+console.log(myVar);
