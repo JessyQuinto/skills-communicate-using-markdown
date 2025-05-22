@@ -6,4 +6,6 @@ Practicando cómo agregar encabezados con Markdown.
 
 ### Y este es un Encabezado H3
 
+![Un Yaktocat sonriente con un laptop](https://octodex.github.com/images/yaktocat.png)
+
 Eso es todo por ahora.
